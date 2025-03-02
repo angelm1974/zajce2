@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/sprzedaz",
+      "methods": [
+        "get"
+      ],
+      "redirect": "https://onet.pl",
+      "statusCode": 301
+    }
+  ]
+}

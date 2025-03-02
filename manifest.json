@@ -1,0 +1,15 @@
+{
+    "name": "Galeria zajęcy",
+    "short_name": "Zające",
+    "description": "Aplikacja o zającach",
+    "lang": "pl",
+    "start_url": "https://angelm1974.github.io/strona-pwa/index.html",
+    "display": "standalone",
+    "theme_color": "#407b0085",
+    "icons": [
+      {
+        "src": "homescreen.png",
+        "sizes": "512x512"
+      }
+    ]
+  }
